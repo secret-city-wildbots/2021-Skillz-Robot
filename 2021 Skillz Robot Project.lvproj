@@ -172,7 +172,6 @@ AddOutputFilter chunkFilter
 			<Item Name="InitSensors.vi" Type="VI" URL="../InitSensors.vi"/>
 			<Item Name="InitUserInterface.vi" Type="VI" URL="../InitUserInterface.vi"/>
 			<Item Name="RobotProfileParser.vi" Type="VI" URL="../RobotProfileParser.vi"/>
-			<Item Name="TurretAndShooter.vi" Type="VI" URL="../../2020-Dashboard (3-30)/TurretAndShooter.vi"/>
 		</Item>
 		<Item Name="lib" Type="Folder" URL="/&lt;vilib&gt;/addons/FRC_ThirdParty/lib">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -244,8 +243,8 @@ AddOutputFilter chunkFilter
 			<Item Name="SwerveDebugColor.vi" Type="VI" URL="../SwerveDebugColor.vi"/>
 		</Item>
 		<Item Name="Turret and Shooter" Type="Folder">
-			<Item Name="Turret.vi" Type="VI" URL="../../2020-Dashboard (3-30)/Turret.vi"/>
-			<Item Name="TurretMoveServo.vi" Type="VI" URL="../../2020-Dashboard (3-30)/TurretMoveServo.vi"/>
+			<Item Name="Turret.vi" Type="VI" URL="../Turret.vi"/>
+			<Item Name="TurretAndShooter.vi" Type="VI" URL="../TurretAndShooter.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
