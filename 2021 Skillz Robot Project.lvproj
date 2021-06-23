@@ -211,6 +211,7 @@ AddOutputFilter chunkFilter
 			<Item Name="GetVision.vi" Type="VI" URL="../GetVision.vi"/>
 			<Item Name="MeasureDriveAcceleration.vi" Type="VI" URL="../MeasureDriveAcceleration.vi"/>
 			<Item Name="PoseAndTargeting.vi" Type="VI" URL="../PoseAndTargeting.vi"/>
+			<Item Name="TurretOffsetCoordinateTransform.vi" Type="VI" URL="../TurretOffsetCoordinateTransform.vi"/>
 		</Item>
 		<Item Name="Subsystem Drive" Type="Folder">
 			<Item Name="Swerve Toolbox" Type="Folder">
